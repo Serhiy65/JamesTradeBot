@@ -1,0 +1,134 @@
+{
+    "5884174375": {
+        "username": "Serhiy_kozarenko",
+        "api_key": "gAAAAABo48f1LjxivCnqEGde8eN4J1JwSiSrxSIwfbOHS54WMPj6cVICtkZF_yQZcHRfwNF1S-aI2sbXZzBTTfPLxGoxkN1hnA==",
+        "api_secret": "gAAAAABo48f1-4hRKX4oSX7jUAiOgDVX3EPpYkqcb5guKGYD5HUcwomV87GPgA5C8ME9zhWCRcqtUXLWkonVI7PGwZmIvFzRKJfIwVNBbpPKwcwPpgafo1k=",
+        "sub_until": "2125-09-27T17:41:02.481583",
+        "settings": {
+            "RSI_PERIOD": 14,
+            "RSI_OVERSOLD": 30,
+            "RSI_OVERBOUGHT": 60,
+            "FAST_MA": 50,
+            "SLOW_MA": 200,
+            "MACD_FAST": 8,
+            "MACD_SLOW": 21,
+            "MACD_SIGNAL": 5,
+            "ORDER_PERCENT": 10.0,
+            "ORDER_SIZE_USD": 0.0,
+            "TP_PCT": 1.0,
+            "SL_PCT": 0.5,
+            "last_invoice_id": "36014702",
+            "TESTNET": true,
+            "active": false,
+            "OI_ENABLED": false,
+            "EMA_ENABLED": false,
+            "MACD_ENABLED": false,
+            "lang": "ru"
+        },
+        "indicators": {
+            "RSI": true,
+            "EMA": true,
+            "MACD": false,
+            "OI": false
+        },
+        "_positions": {}
+    },
+    "5694828046": {
+        "username": "ghofts",
+        "api_key": "gAAAAABo98bXknJ7Acyijx-cSqasZNRHLop38IGt9tu3I-kLBSlulnYoRckPmm8vqQ9mznQ-mUusyXPJ_UNRWsmfgPVX84JiGV8be-kx4L6FLG2VTvsiZhg=",
+        "api_secret": "gAAAAABo98bXBL098RzEuFxlYFl_OuxEapwfIuOf3I_8sbY1ZH9m12UBMaiA3e6Ty3HLZE8jKdIMXTMuAblTTjxfq5-m27zjjPidjiBJ4RKmhFC4kbhGGBZCW3l9cLYC_kZeXovOqWlJ",
+        "sub_until": "2125-09-10T11:16:20.134713",
+        "settings": {
+            "RSI_PERIOD": 14,
+            "RSI_OVERSOLD": 40,
+            "RSI_OVERBOUGHT": 60,
+            "FAST_MA": 50,
+            "SLOW_MA": 200,
+            "MACD_FAST": 8,
+            "MACD_SLOW": 21,
+            "MACD_SIGNAL": 5,
+            "ORDER_PERCENT": 15.0,
+            "ORDER_SIZE_USD": 0.0,
+            "TP_PCT": 1.0,
+            "SL_PCT": 0.5,
+            "last_invoice_id": "34846046",
+            "active": true,
+            "KEY": "VALUE",
+            "TESTNET": true,
+            "OI_ENABLED": false,
+            "EMA_ENABLED": false,
+            "MACD_ENABLED": true,
+            "lang": "ru",
+            "symbols": [
+                "BTCUSDT",
+                "TIAUSDT",
+                "ETHUSDT"
+            ],
+            "LANG": "en",
+            "RSI_ENABLED": false
+        },
+        "indicators": {
+            "RSI": true,
+            "EMA": true,
+            "MACD": false,
+            "OI": false
+        },
+        "_positions": {}
+    },
+    "7194853997": {
+        "username": null,
+        "api_key": "",
+        "api_secret": "",
+        "sub_until": "2125-09-11T11:27:34.245121",
+        "settings": {
+            "RSI_PERIOD": 14,
+            "RSI_OVERSOLD": 40,
+            "RSI_OVERBOUGHT": 60,
+            "FAST_MA": 50,
+            "SLOW_MA": 200,
+            "MACD_FAST": 8,
+            "MACD_SLOW": 21,
+            "MACD_SIGNAL": 5,
+            "ORDER_PERCENT": 10.0,
+            "ORDER_SIZE_USD": 0.0,
+            "TP_PCT": 1.0,
+            "SL_PCT": 0.5
+        },
+        "indicators": {
+            "RSI": true,
+            "EMA": true,
+            "MACD": false,
+            "OI": false
+        }
+    },
+    "643647376": {
+        "username": "The1amim3sh",
+        "api_key": "gAAAAABo8Qez_QgG-ofaKQDDERqmM4NC1rDmTYkuxcWWQqvmA8OskHaVUk8PkXNxrtPKd0f9wB-uK1aROjZQ_lS0hJEV4sDdjA==",
+        "api_secret": "gAAAAABo8QezzhFlcQ_JQIYmHZXsSd8tsQiOSazkoEMgnHyr2QTVNWXZzuk0LFRCJilcx2R54XO9tdpfRwdiDyYrwmCDzVFJz-IlEXHltWUjSkJ0z4iWM7U=",
+        "sub_until": "2125-09-11T11:29:56.681751",
+        "settings": {
+            "RSI_PERIOD": 14,
+            "RSI_OVERSOLD": 40,
+            "RSI_OVERBOUGHT": 60,
+            "FAST_MA": 50,
+            "SLOW_MA": 200,
+            "MACD_FAST": 8,
+            "MACD_SLOW": 21,
+            "MACD_SIGNAL": 5,
+            "ORDER_PERCENT": 10.0,
+            "ORDER_SIZE_USD": 0.0,
+            "TP_PCT": 1.0,
+            "SL_PCT": 0.5,
+            "last_invoice_id": "34907703",
+            "active": false,
+            "TESTNET": true,
+            "lang": "ru"
+        },
+        "indicators": {
+            "RSI": true,
+            "EMA": true,
+            "MACD": false,
+            "OI": false
+        }
+    }
+}
